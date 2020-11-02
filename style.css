@@ -1,0 +1,11 @@
+body {
+    background: #efefef;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.card-body {
+    padding: 0.5rem;
+}
